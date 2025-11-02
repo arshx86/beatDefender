@@ -4,7 +4,7 @@ Windows 10/11 script to remove windows defender completely from the system.
 ### Warning
 You won't be able to re-install windows defender again unless you reset the PC.
 
-## TESTED IN 24H2
+## TESTED IN 25H2 and 24H2
 
 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/01511609-7e86-4627-80ff-52c227742836" />
 
